@@ -1,0 +1,8 @@
+{
+  "defaultFolder": "Notes",
+  "addTimestamp": true,
+  "addTags": true,
+  "defaultTags": ["openclaw"],
+  "dateFormat": "YYYY-MM-DD HH:mm",
+  "language": "zh-CN"
+}
