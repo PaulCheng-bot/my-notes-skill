@@ -1,10 +1,14 @@
 ---
-name: "my-notes-skill"
-version: "1.0.0"
-description: "Create notes in Apple Notes on Mac. Use when user asks to record notes, save important information, or create reminders."
-author: "Paul Cheng"
-tags: ["notes", "apple-notes", "memo", "recording"]
-license: "MIT"
+name: my-notes-skill
+version: 1.0.0
+description: Create notes in Apple Notes on Mac. Use when user asks to record notes, save important information, or create reminders.
+author: Paul Cheng
+tags:
+  - notes
+  - apple-notes
+  - memo
+  - recording
+license: MIT
 ---
 
 # My Notes Skill 📝
