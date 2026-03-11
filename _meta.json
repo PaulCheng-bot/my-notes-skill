@@ -1,15 +1,12 @@
 {
   "name": "my-notes-skill",
-  "version": "1.0.0",
   "author": "Paul Cheng",
   "description": "在 Apple Notes 中创建笔记",
   "category": "productivity",
   "tags": ["notes", "apple-notes", "memo", "recording", "笔记"],
   "license": "MIT",
-  "homepage": "https://github.com/paulcheng/my-notes-skill",
-  "repository": "https://github.com/paulcheng/my-notes-skill",
+  "homepage": "https://github.com/PaulCheng-bot/my-notes-skill",
+  "repository": "https://github.com/PaulCheng-bot/my-notes-skill",
   "requires": ["memo-cli"],
-  "platform": ["macOS"],
-  "createdAt": "2026-03-11T16:30:00Z",
-  "updatedAt": "2026-03-11T16:30:00Z"
+  "platform": ["macOS"]
 }
